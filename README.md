@@ -1,9 +1,6 @@
-# Test-Repository
+# Testsicheres Super-Repo
+Changed on HubGit - Verschion!
 
-Changed on GitHub - Version!
+I have been inserted on GitHub!
 
-I was inserted on GitHub!
-
-I'm a local computer made line!
-
-This is a test description
+I'm a locally changed computerline!
