@@ -1,7 +1,6 @@
-# Repository des heiligen Tests
+# Repository used to learn and test out pushs, pulls & merges.
 
 I was inserted on GitHub and also made bigger there!
-
 I'm a locally changed computerline!
 
-Changed on GitHub-Version!!! - This is a test description!
+This is a test description!
