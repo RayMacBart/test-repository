@@ -1,6 +1,7 @@
-# Testsicheres Super-Repo
-Changed on HubGit - Verschion!
+# Repository des heiligen Tests
 
-I have been inserted on GitHub!
+I was inserted on GitHub and also made bigger there!
 
 I'm a locally changed computerline!
+
+Changed on GitHub-Version!!! - This is a test description!
